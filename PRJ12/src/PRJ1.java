@@ -4,4 +4,5 @@ public class PRJ1 {
 	//123
 	String temp = "temp";
 	String tete = "tetet";
+	String teted = "오늘 점심은 뭐먹지... AY";
 }
